@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'Eblis_unity team Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nSupport: @heset_ni_zendgi  @Xx_admin_eblis_xX\nChannels: @eblis_unity\n\license.'
+  return 'Eblis_unity team BotV1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nSupport: @heset_ni_zendgi  @Xx_admin_eblis_xX\nChannels: @eblis_unity\n\license.'
 end
 
 return {
