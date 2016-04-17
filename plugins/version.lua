@@ -14,7 +14,17 @@
 do
 
 function run(msg, matches)
-  return 'Eblis_unity team BotV1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nSupport: @heset_ni_zendgi  @Xx_admin_eblis_xX\nChannels: @eblis_unity\n\license.'
+  return 'Freeze_bot'..version.. [[
+❄️Freeze robot V1❄️
+
+💥created by Eblis team💥
+
+♨️ sudo users: @heset_ni_zendgi
+@Xx_admin_eblis_xX ♨️
+
+➡️our chanal: @eblis_unity⬅️ 
+  〰〰〰〰〰〰〰〰〰〰〰
+  ]]
 end
 
 return {
