@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'Freeze_bot'..version.. [[
+  return 'Freeze_bot'  [[
 ❄️Freeze robot V1❄️
 
 💥created by Eblis team💥
