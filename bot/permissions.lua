@@ -6,6 +6,7 @@ local sudos = {
     "set_lang",
     "tosupergroup",
  	"gban_installer"
+ 	"invite",
   }
  local admins = {
  	"rank_mod",
@@ -43,6 +44,7 @@ local mods = {
 	"muteall",
 	"rules",
 	"pre_process"
+	"translate",
 }
 
 local function get_tag(plugin_tag)
