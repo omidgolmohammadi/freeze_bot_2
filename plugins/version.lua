@@ -1,32 +1,15 @@
---------------------------------------------------
---      ____  ____ _____                        --
---     |    \|  _ )_   _|___ ____   __  __      --
---     | |_  )  _ \ | |/ ·__|  _ \_|  \/  |     --
---     |____/|____/ |_|\____/\_____|_/\/\_|     --
---                                              --
+
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
+--       Developers: @heset_ni_zendgi @Xx_admin_eblis_xX      --
+--     our chanal:  @eblis_unity   --
 --                                              --
 --------------------------------------------------
 
 do
 
 function run(msg, matches)
-  return 'Freeze_bot'  [[
-❄️Freeze robot V1❄️
-
-💥created by Eblis team💥
-
-♨️ sudo users: @heset_ni_zendgi
-@Xx_admin_eblis_xX ♨️
-
-➡️our chanal: @eblis_unity⬅️ 
-  〰〰〰〰〰〰〰〰〰〰〰
-  ]]
-
-end
+  return 'Freeze Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: omid and mehran eblis\nSupport: @heset_ni_zendgi @Xx_admin_eblis_xX\nChannels: @eblis_unity\n\nCheckout: https://github.com/omidgolmohammadi/freeze_bot\nGNU GPL v1 license.'
 
 return {
   patterns = {
