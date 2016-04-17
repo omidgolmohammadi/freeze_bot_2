@@ -5,8 +5,8 @@ local sudos = {
     "lang_install",
     "set_lang",
     "tosupergroup",
- 	"gban_installer"
- 	"invite",
+ 	"gban_installer",
+ 	"invite"
   }
  local admins = {
  	"rank_mod",
