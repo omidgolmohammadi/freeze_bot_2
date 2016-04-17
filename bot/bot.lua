@@ -238,6 +238,7 @@ function create_config( )
     "export_gban",
     "giverank",
     "id",
+    "invite",
     "links",
     "moderation",
     "plugins",
@@ -245,6 +246,7 @@ function create_config( )
     "settings",
     "spam",
     "version",
+    "translate",
     },
   enabled_lang = {
     "arabic_lang",
