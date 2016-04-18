@@ -6,7 +6,7 @@ function run(msg, matches)
   end
 return {
  description = "My bot", 
-  usage = "bot name: Freeze_bot_2",
+  usage = "adnin name: omid,mehran",
    patterns = {
    "^فرز",
    "^[Ff][Rr][Rr][Ee][Zz][Ee]",
