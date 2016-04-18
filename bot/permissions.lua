@@ -45,6 +45,7 @@ local mods = {
 	"rules",
 	"poker",
 	"pre_process",
+	"rmsg",
 	"translate"
 }
 
