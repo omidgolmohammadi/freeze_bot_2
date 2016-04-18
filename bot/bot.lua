@@ -233,12 +233,15 @@ function create_config( )
   config = {
   enabled_plugins = {
     "arabic",
+    "auto-leave",
+    "azan",
     "baba",
     "bot",
     "commands",
     "export_gban",
     "giverank",
     "id",
+    "info",
     "links",
     "moderation",
     "mybot",
@@ -249,6 +252,7 @@ function create_config( )
     "settings",
     "spam",
     "version",
+    "tag_lock",
     "translate",
     },
   enabled_lang = {
