@@ -8,7 +8,7 @@ reply_msg(reply_id, info, ok_cb, false) end
 
 return 
 {
-  description = "show your and group info", usage = {!info : show info},
+  description = "show your and group info", usage = '{!info : show info}',
   
 patterns = { "^[!/#]info" }, 
   
