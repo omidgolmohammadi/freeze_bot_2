@@ -241,6 +241,7 @@ function create_config( )
     "id",
     "links",
     "moderation",
+    "mybot",
     "plugins",
     "poker",
     "rmsg",
