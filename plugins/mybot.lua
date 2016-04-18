@@ -9,7 +9,7 @@ return {
   usage = "bot name: Freeze_bot_2",
    patterns = {
    "^فرز",
-   "^[Ff][Rr][Rr][Ee][Zz][Ee]"
+   "^[Ff][Rr][Rr][Ee][Zz][Ee]",
    "^@freeze_robot_2"
    
    },
