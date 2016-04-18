@@ -233,6 +233,7 @@ function create_config( )
   config = {
   enabled_plugins = {
     "arabic",
+    "baba",
     "bot",
     "commands",
     "export_gban",
