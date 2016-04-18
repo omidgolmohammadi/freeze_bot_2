@@ -13,7 +13,6 @@ return {
       usage = "",
       patterns = {
            "^[Ss][Aa][Ll][Aa][Mm]",
-"^[Hh][Ii]"‚
 "^سلام"‚
       },
       run = run,
