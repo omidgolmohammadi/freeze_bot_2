@@ -1,4 +1,5 @@
 local sudos = {
+    "auto-leave",
     "baba",
     "plugins",
     "rank_admin",
@@ -27,6 +28,7 @@ local mods = {
 	"whois",
 	"kick",
 	"add",
+	"azan",
 	"ban",
 	"unban",
 	"lockmember",
@@ -47,6 +49,7 @@ local mods = {
 	"poker",
 	"pre_process",
 	"rmsg",
+	"tag_lock",
 	"translate"
 }
 
