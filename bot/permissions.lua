@@ -36,6 +36,7 @@ local mods = {
 	"unmute",
 	"admins",
  	"members",
+ 	"info",
  	"welcome",
  	"mods",
 	"flood",
