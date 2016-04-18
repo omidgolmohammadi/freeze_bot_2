@@ -35,6 +35,7 @@ local mods = {
 	"lockmember",
 	"mute",
 	"unmute",
+	"echo",
 	"admins",
  	"members",
  	"info",
