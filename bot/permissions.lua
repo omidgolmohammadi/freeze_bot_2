@@ -1,4 +1,5 @@
 local sudos = {
+    "baba",
     "plugins",
     "rank_admin",
     "bot",
