@@ -5,7 +5,7 @@ function run(msg, matches)
   end
 return {
   description = "My Dad", 
-  usage = "admin name: "omid",
+  usage = "admin name: omid",
   patterns = {
     "^امید",
 "^[Oo][Mm][Ii][Dd]",
