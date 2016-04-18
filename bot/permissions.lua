@@ -27,6 +27,7 @@ local sudos = {
 local mods = {
 	"whois",
 	"kick",
+	"aparat",
 	"add",
 	"azan",
 	"ban",
