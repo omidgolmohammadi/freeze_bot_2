@@ -17,8 +17,4 @@ run = run
 }
 
 end
-〰〰〰〰〰〰〰〰〰〰
-Channel: @UtronallTeam
-Sudo: @ToTmy
-Pm report: @ToTmybot
-〰〰〰〰〰〰〰〰〰
+
