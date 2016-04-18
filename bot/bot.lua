@@ -235,6 +235,7 @@ function create_config( )
     "arabic",
     "auto-leave",
     "azan",
+    "aparat",
     "baba",
     "bot",
     "commands",
