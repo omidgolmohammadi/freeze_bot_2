@@ -8,11 +8,12 @@ local function run(msg, matches)
      end
 end
 
-return {
+return 
       description = "",
       usage = "",
       patterns = {
            "^[Ss][Aa][Ll][Aa][Mm]",
+           "^[Hh][Ii]
 "^سلام"‚
       },
       run = run,
