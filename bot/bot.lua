@@ -242,6 +242,7 @@ function create_config( )
     "echo",
     "export_gban",
     "giverank",
+    "gps",
     "id",
     "info",
     "links",
