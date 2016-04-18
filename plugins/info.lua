@@ -6,6 +6,12 @@ local info = '#Name : '..msg.from.first_name..'\n\n' ..'#Id : '..msg.from.id..'\
 
 reply_msg(reply_id, info, ok_cb, false) end
 
-return { description = "show your and group info", usage = {!info : show info}, patterns = { "^[!/#]info" }, run = run }
+return 
+{
+  description = "show your and group info", usage = {!info : show info},
+  
+patterns = { "^[!/#]info" }, 
+  
+run = run }
 
 end
