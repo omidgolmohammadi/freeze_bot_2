@@ -31,6 +31,7 @@ local mods = {
 	"add",
 	"azan",
 	"linkpv",
+	"gps",
 	"ban",
 	"unban",
 	"lockmember",
