@@ -30,6 +30,7 @@ local mods = {
 	"aparat",
 	"add",
 	"azan",
+	"linkpv",
 	"ban",
 	"unban",
 	"lockmember",
