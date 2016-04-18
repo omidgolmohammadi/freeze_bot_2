@@ -239,6 +239,7 @@ function create_config( )
     "baba",
     "bot",
     "commands",
+    "echo",
     "export_gban",
     "giverank",
     "id",
