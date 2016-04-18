@@ -9,7 +9,7 @@ return {
   patterns = {
     "^امید",
 "^[Oo][Mm][Ii][Dd]",
-"^@heset_ni_zendgi
+"^@heset_ni_zendgi"
 
   },
   run = run
