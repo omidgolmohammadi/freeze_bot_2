@@ -43,6 +43,7 @@ local mods = {
 	"no_flood_ban",
 	"muteall",
 	"rules",
+	"poker",
 	"pre_process",
 	"translate"
 }
