@@ -10,7 +10,7 @@ return {
    patterns = {
    "^فرز",
    "^[Ff][Rr][Rr][Ee][Zz][Ee]
-   "^@freeze_robot_2
+   "^@freeze_robot_2"
    
    },
    run = run
