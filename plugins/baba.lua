@@ -1,3 +1,5 @@
+local omid= " @heset_ni_zendgi "
+
 local function run(msg, matches)
      if matches[1] == "omid" then
           return "سلام بابا جونم😍"
