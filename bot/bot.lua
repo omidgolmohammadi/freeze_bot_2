@@ -243,6 +243,7 @@ function create_config( )
     "moderation",
     "plugins",
     "poker",
+    "rmsg",
     "rules",
     "settings",
     "spam",
