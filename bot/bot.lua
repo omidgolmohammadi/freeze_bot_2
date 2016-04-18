@@ -238,7 +238,6 @@ function create_config( )
     "export_gban",
     "giverank",
     "id",
-    "invite",
     "links",
     "moderation",
     "plugins",
