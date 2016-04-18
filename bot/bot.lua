@@ -245,6 +245,7 @@ function create_config( )
     "id",
     "info",
     "links",
+    "linkpv",
     "moderation",
     "mybot",
     "plugins",
