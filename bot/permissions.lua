@@ -4,6 +4,7 @@ local sudos = {
     "plugins",
     "rank_admin",
     "bot",
+    "bot_photo",
     "lang_install",
     "set_lang",
     "mybot",
@@ -53,6 +54,9 @@ local mods = {
 	"rules",
 	"poker",
 	"pre_process",
+        "weather",
+        "help",
+        "voice",
 	"rmsg",
 	"tag_lock",
 	"translate"
