@@ -55,6 +55,8 @@ local mods = {
 	"pre_process",
         "weather",
         "tools",
+        "help",
+        "addplug",
         "webshot",
 	"rmsg",
 	"tag_lock",
