@@ -1,18 +1,15 @@
 do
 
 function run(msg, matches)
-  return "با بابام چیکار داری دیوث😡"
+  return "الپخخخخخ ننش حشری شده بابامو صدا میزنه بابا برو بکنش تا صداش در نیومده😂😍"
   end
 return {
   description = "My Dad", 
-  usage = "admin name: mehran,omid",
+  usage = "admin name:omid",
   patterns = {
     "^امید",
-    "^مهران",
 "^[Oo][Mm][Ii][Dd]",
-"^[Mm][Ee][Hh][Rr][Aa][Nn]",
-"^@Xx_admin_eblis_xX",
-"^@heset_ni_zendgi"
+"^@omid_ir19"
 
   },
   run = run
