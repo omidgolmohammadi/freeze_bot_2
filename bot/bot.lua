@@ -236,7 +236,6 @@ function create_config( )
     "auto-leave",
     "azan",
     "aparat",
-    "baba",
     "bot",
     "tools",
     "webshot",
