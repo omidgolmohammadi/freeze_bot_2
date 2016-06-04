@@ -253,7 +253,7 @@ function create_config( )
     "moderation",
     "plugins",
     "poker",
-    "weather"٫
+    "weather",
     "rmsg",
     "rules",
     "settings",
